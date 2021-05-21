@@ -85,4 +85,12 @@
         padding-top: 20px;
         text-align: center;
     }
+    
+    .article__view--container-img img{
+    width: 50%;
+    height: auto;
+    display: flex;
+    text-align: center;
+    margin-left: auto; margin-right: auto;
+}
 }

@@ -80,7 +80,7 @@
 @media only screen and (max-width: 500px) {
     .article__view--container {
         position: relative;
-        width: 95%;
+        width: 90%;
         margin: auto;
         padding-top: 20px;
         text-align: center;

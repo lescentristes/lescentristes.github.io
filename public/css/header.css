@@ -144,3 +144,12 @@
         font-size: 30px;
     }
 }
+
+
+@media only screen and (max-width: 500px) {
+    .header__slogan--image {
+        width: 80%;
+        height: auto;
+    }
+}
+}

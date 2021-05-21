@@ -15,12 +15,3 @@ body, html {
     position: relative;
     z-index: 999;
 }
-
-@media only screen and (max-width: 500px) {
-    .container {
-        width: 98%;
-        margin: auto;
-        position: relative;
-        z-index: 999;
-    }  
-}

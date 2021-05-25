@@ -58,6 +58,11 @@
     padding-top: 0px; padding-bottom: 0px;
 }
 
+.article__view--video {
+    width: 100%;
+    height: auto;
+}
+
 .article__view--container-img img{
     display: flex;
     text-align: center;
